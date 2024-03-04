@@ -117,14 +117,13 @@ print(query_result)
 
 
 ## Output:
-```
+
 ![image](https://github.com/Nagajyothichinta/Ex-3--AAI/assets/94191344/49b8a87a-a819-4c60-bf64-2af52fae3ba1)
-```
-```
+
 
 ![image](https://github.com/Nagajyothichinta/Ex-3--AAI/assets/94191344/e2fcf4ff-f1ea-4749-b082-f2f886412400)
 
-```
+
 
 ## Result:
 Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
